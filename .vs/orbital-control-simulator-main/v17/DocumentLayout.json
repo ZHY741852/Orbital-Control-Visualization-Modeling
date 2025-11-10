@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|c:\\users\\z\\unityproject\\orbital-control-simulator-main\\assets\\scripts\\linerender\\linevisibilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\linerender\\linevisibilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|c:\\users\\z\\unityproject\\orbital-control-simulator-main\\assets\\scripts\\controllers\\gravitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\controllers\\gravitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\objectplacement\\objectplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\objectplacement\\objectplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\simulationbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\simulationbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\orbitalcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\orbitalcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\maneuvernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\maneuvernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\nativephysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\nativephysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\objectphysics\\nbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\objectphysics\\nbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\controllers\\bodydropdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\controllers\\bodydropdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\simulationcore.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\simulationcore.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\controllers\\maneuvernodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\controllers\\maneuvernodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\audio\\ambientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\audio\\ambientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\camera\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\camera\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\audio\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\audio\\uibuttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\controllers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\controllers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\ui\\togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\ui\\togglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\cameracalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\cameracalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\parsingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\parsingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\simcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\simcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\utils\\tleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\utils\\tleparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\assets\\scripts\\objectplacement\\velocitydragmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60C576-7B4F-2C0C-8D38-AA180F8F6D12}|CoreRuntime.csproj|solutionrelative:assets\\scripts\\objectplacement\\velocitydragmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineVisibilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\LineRender\\LineVisibilityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LineRender\\LineVisibilityManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\LineRender\\LineVisibilityManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LineRender\\LineVisibilityManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:05:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectPlacementManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPlacement\\ObjectPlacementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPlacement\\ObjectPlacementManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPlacement\\ObjectPlacementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPlacement\\ObjectPlacementManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T09:01:27.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\SimulationBootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\SimulationBootstrap.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\SimulationBootstrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\SimulationBootstrap.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:48:25.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrbitalCalculations.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\OrbitalCalculations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\OrbitalCalculations.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\OrbitalCalculations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\OrbitalCalculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:48:49.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:37:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GravityManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\GravityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\GravityManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\GravityManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\GravityManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABIwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:45:01.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManeuverNode.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\ManeuverNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\ManeuverNode.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\ManeuverNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\ManeuverNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:49:29.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NativePhysics.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\NativePhysics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NativePhysics.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\NativePhysics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NativePhysics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:38:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NBody.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPhysics\\NBody.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPhysics\\NBody.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPhysics\\NBody.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPhysics\\NBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T07:21:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimulationCore.asmdef",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\SimulationCore.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimulationCore.asmdef",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\SimulationCore.asmdef",
+              "RelativeToolTip": "Assets\\Scripts\\SimulationCore.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-10-09T03:38:31.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BodyDropdownManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\BodyDropdownManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\BodyDropdownManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\BodyDropdownManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\BodyDropdownManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:44:55.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManeuverNodeManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\ManeuverNodeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\ManeuverNodeManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\ManeuverNodeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\ManeuverNodeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T08:43:05.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AmbientManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Audio\\AmbientManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AmbientManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Audio\\AmbientManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AmbientManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:37:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAADwvwUBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:37:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UIButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Audio\\UIButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\UIButtonSound.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Audio\\UIButtonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\UIButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:36:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\UIManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Controllers\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\UIManager.cs",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAYwPIBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:17:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToggleButton.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\UI\\ToggleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ToggleButton.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\UI\\ToggleButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ToggleButton.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:38:19.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraCalculations.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\CameraCalculations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\CameraCalculations.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\CameraCalculations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\CameraCalculations.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:46:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\Extensions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\Extensions.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\Extensions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:49:31.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ParsingUtil.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\ParsingUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\ParsingUtil.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\ParsingUtil.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\ParsingUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:48:40.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimContext.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\SimContext.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\SimContext.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\SimContext.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\SimContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:48:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TLEParser.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\TLEParser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\TLEParser.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\Utils\\TLEParser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\TLEParser.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:47:38.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VelocityDragManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPlacement\\VelocityDragManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPlacement\\VelocityDragManager.cs",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\Scripts\\ObjectPlacement\\VelocityDragManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPlacement\\VelocityDragManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:38:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "zh-cn_Commonly_used.txt",
+              "DocumentMoniker": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt",
+              "RelativeDocumentMoniker": "Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt",
+              "ToolTip": "C:\\Users\\z\\UnityProject\\orbital-control-simulator-main\\Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt",
+              "RelativeToolTip": "Assets\\DefaultUnity\\TextMesh Pro\\Fonts\\zh-cn_Commonly_used.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-30T09:53:43.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
